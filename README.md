@@ -1,3 +1,6 @@
+# GAME RECOMMENDATION SYSTEM
+![Python](https://upload.wikimedia.org/wikipedia/commons/1/1b/Blue_Python_3.9_Shield_Badge.svg)
+![VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
 # Demo-app-Attacking-the-key-exchange-protocol
 This is the project for the final examination of the "Data Security" course.
 
